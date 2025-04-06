@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BusquedaSec
+comment1.params=Arr\ x
+comment1.target=boolean\ Buski(int[],\ int)
+comment2.params=Arr\ x\ pos
+comment2.target=boolean\ Buski(int[],\ int,\ int)
+numComments=3

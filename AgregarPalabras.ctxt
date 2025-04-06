@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AgregarPalabras
+comment1.params=c
+comment1.target=boolean\ isLetter(char)
+comment2.params=sentence
+comment2.target=java.util.ArrayList\ agregadorPalabras(java.lang.String)
+comment3.params=sentence\ pos\ arrWords\ currWord
+comment3.target=void\ agregadorPalabras(java.lang.String,\ int,\ java.util.ArrayList,\ java.lang.String)
+numComments=4

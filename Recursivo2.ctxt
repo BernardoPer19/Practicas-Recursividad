@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Recursivo2
+comment1.params=numero
+comment1.target=int\ cantDigitos(int)
+comment2.params=numero
+comment2.target=int\ cantDigitos2(int)
+comment3.params=numero
+comment3.target=int\ cantDigitos3(int)
+numComments=4

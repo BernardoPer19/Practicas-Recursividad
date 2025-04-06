@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SumaParesRestaImpares
+comment1.params=num
+comment1.target=int\ Sec(int)
+comment2.params=num\ diviE
+comment2.target=int\ Sec(int,\ int)
+numComments=3

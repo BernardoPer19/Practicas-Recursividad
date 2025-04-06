@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BusqueBinariaJoaquinGay
+comment1.params=x\ Arr
+comment1.target=boolean\ JoaquinGeyBi(int,\ int[])
+comment2.params=x\ Arr\ li\ ls
+comment2.target=boolean\ JoaquinGeyBi(int,\ int[],\ int,\ int)
+numComments=3

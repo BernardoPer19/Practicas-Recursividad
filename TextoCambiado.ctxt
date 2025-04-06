@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TextoCambiado
+comment1.params=texto\ palabra
+comment1.target=java.lang.String\ cadenaCambiada(java.lang.String,\ java.lang.String)
+comment2.params=texto\ palabra\ posPal\ posText\ resultado
+comment2.target=java.lang.String\ cadenaCambiada(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Recursivo4
+comment1.params=num
+comment1.target=int\ ocurrencias(int)
+comment2.params=num\ noDuplicados\ facMulti\ res
+comment2.target=int\ ocurrencias(int,\ java.util.ArrayList,\ int,\ int)
+numComments=3
